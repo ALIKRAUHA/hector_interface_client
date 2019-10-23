@@ -1,0 +1,58 @@
+/* section
+{
+	border: 3px black solid;
+	border-radius: 10px;
+	min-height: 600px;
+	min-width: 400px;
+	margin: 10px;
+	padding-right: 10px ;
+	padding-left: 10px ;
+	font-family: "Trebuchet MS", Arial;
+	background-color: white;
+}
+
+body
+{
+	background-color: #45BBFF;
+}
+
+.button
+{
+	min-width: 60%;
+	width: 200px;
+}
+
+a
+{
+	background-color: #006CFF;
+	color: black;
+	border: 2px black solid;
+	border-radius: 25px;
+	font-size: 40px;
+	font-style: normal;
+	text-decoration: none;
+	padding: 10px;
+	color: black;
+	font-style: normal;
+	text-decoration: none;
+	text-align: center;
+	height: 100px;
+
+}
+
+h1
+{
+	font-size: 58px;
+}
+ 
+.normal
+{
+	background-color: white;
+}
+
+p
+{
+	margin: 20px auto 60px auto;
+	text-align: center;
+}
+//*/

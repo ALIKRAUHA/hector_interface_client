@@ -1,0 +1,56 @@
+.petit
+{
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+.box
+{
+    display: flex;
+    flex-direction: column;
+    flex-shrin: 1;
+    height: auto;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+tr
+{
+    display: flex;
+    flex-direction: column;
+    flex-shrin: 1;
+}
+
+footer
+{
+    max-width: 360px;
+    height: 60px;
+    margin-left: 20%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1 30px;
+    height: auto;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}
+.param
+{
+
+}
+
+.bouton
+{
+
+}
+
+.hector
+{
+
+}
